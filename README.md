@@ -16,3 +16,5 @@ Guided_bkp.py will generate 20 images on which guided backpropogation is done, u
 
 ![image](https://user-images.githubusercontent.com/17472092/132364731-635bf992-ffe6-4257-ac8f-3b05e26f6e18.png)
 ![image](https://user-images.githubusercontent.com/17472092/132364931-5d4ede3f-22c5-4fa1-8292-4ae14a91ac1b.png)
+![image](https://user-images.githubusercontent.com/17472092/132365024-96b1372c-b6de-4d62-afaa-87931305712c.png)
+![image](https://user-images.githubusercontent.com/17472092/132365071-64219fc8-829a-4f63-9e4a-0610b06f9176.png)
