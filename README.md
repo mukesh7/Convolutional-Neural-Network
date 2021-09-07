@@ -13,3 +13,5 @@ python3 train.py --lr 0.00005 --batch_size 250 --init 0 --save_dir 'Folder_name'
 
 # For Guided backpropogation
 Guided_bkp.py will generate 20 images on which guided backpropogation is done, use same run.sh to run guided backpropogation also.
+
+![image](https://user-images.githubusercontent.com/17472092/132364731-635bf992-ffe6-4257-ac8f-3b05e26f6e18.png)
