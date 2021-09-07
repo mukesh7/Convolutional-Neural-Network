@@ -1,3 +1,4 @@
+[Report.pdf](https://github.com/mukesh7/Convolutional-Neural-Network/files/7121881/Report.pdf)
 # Convolutional-Neural-Network
 Download the MNIST data and save train.csv , valid.csv and test.csv.
 # To train the model
