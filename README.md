@@ -1,3 +1,5 @@
+![batch_norm](https://user-images.githubusercontent.com/17472092/132354546-91df62aa-a4de-493a-9293-7b90bf3a047f.png)
+![loss](https://user-images.githubusercontent.com/17472092/132354553-a5980376-b450-4e9e-8da1-b5d8b7ae0b62.png)
 # Convolutional-Neural-Network
 Download MNIST data and save 'train.csv', 'valid.csv' and 'test.csv'
 # To train the model
